@@ -63,11 +63,9 @@ Mix of clothing sizes (`S, M, L, XL, XXL, XS`) and dimensions (`5x7 in`, `10x10 
 ---
 
 ## ✨ Features
-
-- **Clean & Ready-to-use** — No nulls, no duplicates on EAN
 - **Realistic e-commerce fields** (price, stock, availability, EAN, color, size)
 - **Diverse categories** beyond just electronics
-- **Synthetic but consistent** data generation
+
 - Excellent for:
   - Exploratory Data Analysis (EDA)
   - Data visualization dashboards
