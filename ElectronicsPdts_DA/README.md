@@ -18,7 +18,7 @@ A large-scale e-commerce product catalog containing 10,000+ product records.
 |-------------------|----------|--------------------------------------|---------------|-------|
 | **Index**         | int      | Sequential row ID                    | 10,000        | 1 to 10,000 |
 | **Name**          | string   | Product name                         | 7,896         | Many "Smart", "Wireless", "Pro", "Eco" terms |
-| **Description**   | string   | Short random product description     | 10,000        | Nonsensical but unique |
+| **Description**   | string   | Short random product description     | 10,000        | Unique |
 | **Brand**         | string   | Brand/Manufacturer                   | 9,241         | Mostly unique |
 | **Category**      | string   | Product category                     | 34            | See full list below |
 | **Price**         | int      | Price in USD                         | 999           | Range: 1 – 999 |
